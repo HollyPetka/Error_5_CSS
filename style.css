@@ -80,6 +80,19 @@ section
 	margin: 0px;
 
 } 
+.foto-kontakt{
+	border-radius: 40px 40px 40px;
+	margin: 0 30px 30px 0;
+	float: left;
+	width: 350px;
+}
+.kontakt-nadpis{
+	color: coral;
+}
+.kufr-gif{
+	width: 30px;
+	border-radius: 10px;
+	margin-left: 20px;
 
 .menu li {
     display: inline-block;
