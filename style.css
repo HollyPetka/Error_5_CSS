@@ -87,3 +87,8 @@ section
 .kontakt-nadpis{
 	color: coral;
 }
+.kufr-gif{
+	width: 30px;
+	border-radius: 10px;
+	margin-left: 20px;
+}
