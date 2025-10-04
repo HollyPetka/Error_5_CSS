@@ -151,3 +151,19 @@ section
 	text-align: center;
 	font-size: small;
 }
+table {
+  border-collapse: collapse; 
+  width: 100%;
+}
+
+th, td {
+
+    text-align: left;
+    border-bottom: 1px solid black;
+    padding: 10px 0;
+}
+    .cena {
+    text-align: right;
+    padding-left: 50px;
+}
+   
