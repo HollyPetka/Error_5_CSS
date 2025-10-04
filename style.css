@@ -76,5 +76,12 @@ section
 .menu 
 { padding: 0px;
 	margin: 0px;
-
 } 
+
+#Marge
+{
+	width: 350px;
+	border-radius: 50px 50px 50px 50px;
+    float: right;
+    margin: 0 0 30px 30px;
+}
