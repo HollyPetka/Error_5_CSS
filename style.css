@@ -78,3 +78,11 @@ section
 	margin: 0px;
 
 } 
+
+.fotka_omne{
+	width: 200px;
+	border-radius: 50%;
+	float: left;
+	margin: 0 30px 30px 0;
+}
+
