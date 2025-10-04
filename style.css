@@ -46,7 +46,7 @@ h1
 {
 	font-size: 80px;
 	text-align: center;
-	color: white;
+	color: white; 
 	margin: 0px;
 	text-shadow: 0 3px 10px rgba(0, 0, 0, 0.7);
 }
@@ -110,7 +110,7 @@ section
 
 .hlavicka {
 	padding: 150px 30px;
-	background-image: url(obrazky/hlavicka.jpg);
+	background-image: url(obrazky/lysa.jpg);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
