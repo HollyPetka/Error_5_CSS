@@ -48,6 +48,7 @@ h1
 	text-align: center;
 	color: white;
 	margin: 0px;
+	text-shadow: 0 3px 10px rgba(0, 0, 0, 0.7);
 }
 
 h2
@@ -70,6 +71,7 @@ h3
 
 section
 { padding: 50px 15%;
+	overflow: auto;
 
 }
 
@@ -87,7 +89,8 @@ section
 .fotogalerie img {
     width: 32%;
     border: 2px solid #756158;
-    border-radius: 10px;
+    border-radius: 30px;
+	
 }
 
 .menu a {
@@ -103,4 +106,14 @@ section
 .menu a:active {
     background-color: #756158;
 }
+
+
+.hlavicka {
+	padding: 150px 30px;
+	background-image: url(obrazky/hlavicka.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 
